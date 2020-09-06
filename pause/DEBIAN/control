@@ -1,0 +1,9 @@
+Package: pause
+Version: 1.0
+Section: custom
+Priority: optional
+Architecture: all
+Essential: no
+Installed-Size: 3212
+Maintainer: https://github.com/Supercatmangod
+Description: A Recreation of the pause command on Windows
